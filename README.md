@@ -4,6 +4,7 @@
 
 **Front-end разработчик** с 1.5+ коммерческим опытом. Знание **<font color="blue">JavaScript</font>** позволяет мне создавать современные Web-приложения с использованием технологий, таких как **<font color="green">React</font>**, **<font color="purple">NEXT.js</font>**, **<font color="red">Redux</font>** и **<font color="teal">TypeScript</font>**. Умею настраивать их с использованием инструментов **<font color="orange">Vite</font>**, **<font color="brown">CRA</font>**. Мой опыт также включает в себя реализацию различных методов тестирования, включая **<font color="blue">unit тесты</font>**, **<font color="blue">integration тесты</font>**. Это позволяет мне обеспечивать высокое качество продуктов, которые разрабатываю.
 
+<font color="red">Красный текст</font>
 
 ### Контакты:
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:railmir@gmail.com) 
