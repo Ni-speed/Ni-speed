@@ -5,7 +5,7 @@
 Front-end разработчик с 1.5+ коммерческим опытом. Знание JavaScript позволяет мне создавать современные Web-приложения с использованием технологий, таких как React, NEXT.js Redux и TypeScript. Умею настраивать их с использованием инструментов Vite, CRA. Мой опыт также включает в себя реализацию различных методов тестирования, включая unit тесты, integration тесты. Это позволяет мне обеспечивать высокое качество продуктов, которые разрабатываю.
 
 ### Контакты:
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=Gmail&logoColor=EA4335)](mailto:railmir@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-181717?style=for-the-badge&logo=Gmail&logoColor=EA4335)](mailto:railmir@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Ilmir_Rakhmatullin-090909?style=for-the-badge&logo=Telegram&logoColor=26A5E4)](https://t.me/Ilmir_Rakhmatullin)
 [![Phone Badge](https://img.shields.io/badge/-+79374764722-090909?style=for-the-badge)](tel:+79374764722)
 
