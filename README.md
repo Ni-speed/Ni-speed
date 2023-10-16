@@ -7,7 +7,7 @@ Front-end разработчик с 1.5+ коммерческим опытом. 
 ### Контакты:
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-0D1117?style=for-the-badge&logo=Gmail&logoColor=EA4335)](mailto:railmir@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Ilmir_Rakhmatullin-0D1117?style=for-the-badge&logo=Telegram&logoColor=26A5E4)](https://t.me/Ilmir_Rakhmatullin)
-[![Phone Badge](https://img.shields.io/badge/-+79374764722-0D1117?style=for-the-badge)](tel:+79374764722)
+[![Phone Badge](https://img.shields.io/badge/-+79374764722-0D1117?style=for-the-badge&logo=android)](tel:+79374764722)
 
 #### Языки программирования::
 ![JavaScript](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
