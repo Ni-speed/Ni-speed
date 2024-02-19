@@ -31,7 +31,7 @@
 ![Prettier](https://img.shields.io/badge/prettier-090909?style=for-the-badge&logo=prettier&logoColor=F7B93E)
 ![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=FF6C37)
 ![Swagger](https://img.shields.io/badge/-Swagger-090909?style=for-the-badge&logo=swagger&logoColor=85EA2D)
-![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=webpack&logoColor=85EA2D)
+![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=webpack&logoColor=26A5E4)
 #### Пакетные менеджеры:
 ![PNPM](https://img.shields.io/badge/PNPM-090909?style=for-the-badge&logo=PNPM&logoColor=F69220)
 ![NPM](https://img.shields.io/badge/NPM-090909?style=for-the-badge&logo=npm&logoColor=CB3837)
